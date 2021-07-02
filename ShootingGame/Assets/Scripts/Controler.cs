@@ -7,10 +7,6 @@ public class Controler : MonoBehaviour
     public float mouseSensitivity = 3.0f;
     Transform cameraT;
     float verticalLookRotation;
-    float horizontalRotate;
-
-    public float a = 50f;
-    public float b = 50f;
 
     void Start()
     {
